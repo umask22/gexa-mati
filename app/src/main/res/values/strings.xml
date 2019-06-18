@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">geXa</string>
+
+    <string name="welcome">¡Hola, %1$s!</string>
+
+    <string name="common_error_field_required">Campo requerido</string>
+
+    <string name="user_search_welcome">¡Bienvenido %1$s a geXa!</string>
+    <string name="user_search_password">Contraseña</string>
+    <string name="user_search_password_title">Autenticación</string>
+    <string name="user_search_password_accept">Aceptar</string>
+
+    <string name="account_development_back">Volver</string>
+    <string name="account_development_title">Desarrollo de cuenta</string>
+
+    <string name="account_details_title">Resumen de cuenta</string>
+
+    <string name="breadcrumb_menu"><![CDATA[Home > Menu]]></string>
+
+    <string name="menu_logout">Cerrar sesion</string>
+    <string name="menu_user">Usuario</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="add_contacts">Añadir Contactos</string>
+    <string name="valueFilter">ValueFilter</string>
+
+    <string name="activity_search_filter_activityType">Tipo de actividad</string>
+    <string name="activity_search_filter_title">Filtro</string>
+    <string name="activity_search_filter">Filtrar</string>
+    <string name="activity_search_notificacion">Notificación</string>
+
+    <string name="activity_search_filter_filter">Filtrar</string>
+    <string name="activity_search_filter_back">atras</string>
+
+    <string name="activity_search_item_menu_complete_activity">Completar</string>
+    <string name="activity_search_item_menu_account_development">Ver desarrollo de cuenta</string>
+
+    <string name="account_search_item_menu_account_development">Ver desarrollo de cuenta</string>
+
+    <string name="account_search_hint">Buscar cuentas</string>
+    <string name="user_search_hint">Buscar Usuario</string>
+
+    <string name="activity_call_update_descriptionTitle">Tenias que</string>
+    <string name="activity_call_update_call">Llamar</string>
+    <string name="activity_call_update_contactTitle">¿A quien vas a llamar?</string>
+    <string name="activity_call_update_menu_title">¿Como seguimos?</string>
+    <string name="activity_call_update_menu_new_call">Nueva llamada</string>
+    <string name="activity_call_update_menu_new_visit">Nueva visita</string>
+    <string name="activity_call_update_menu_completeByWeb">Completar via gexa WEB</string>
+    <string name="profile_view_title">Perfil</string>
+    <string name="profile_view_back">volver</string>
+    <string name="activity_call_update_callEnded_title">Llamada</string>
+    <string name="activity_call_update_menu_call">Llamar</string>
+    <string name="activity_call_update_menu_account_view">Ver cuenta</string>
+    <string name="activity_call_update_menu_account_development_view">Ver desarrollo de cuenta</string>
+    <string name="activity_call_new_activity_description">Cuenta</string>
+    <string name="activity_call_new_scheduleDate">Fecha</string>
+    <string name="select">Seleccionar</string>
+    <string name="accept">Aceptar</string>
+    <string name="back">atras</string>
+    <string name="date_search_title">Seleccion de fecha</string>
+    <string name="date_search_accept">Aceptar</string>
+    <string name="activity_search_title">Actividades</string>
+    <string name="opportunity_search_title">Oportunidades</string>
+    <string name="visit_search_title">Visitas</string>
+    <string name="account_search_title">Cuentas</string>
+    <string name="call_update_title">Actualización de llamada</string>
+    <string name="call_new_title">Nueva llamada</string>
+    <string name="visit_new_title">Nueva visita</string>
+    <string name="visit_update_title">Actualización de visita</string>
+    <string name="loading_title">Aguarde unos instantes</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cuentas_cercanas">Buscar cuentas cercanas</string>
+    <string name="resume">Resumen</string>
+    <string name="development">Desarrollo</string>
+    <string name="role">Rol</string>
+    <string name="user">Usuario</string>
+    <string name="name">Nombre</string>
+    <string name="title_activity_tabs">ActivityTabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="token_update">Actualizar token</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="configuration">Configuración</string>
+
+
+</resources>

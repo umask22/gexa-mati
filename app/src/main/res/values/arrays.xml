@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_search_filter_activityTypes">
+        <item>Seleccionar...</item>
+        <item>Llamada</item>
+        <item>Visita</item>
+    </string-array>
+    <string-array name="activity_search_filter_accountTypes">
+        <item>Seleccionar...</item>
+        <item>Prospecto</item>
+        <item>Cartera</item>
+    </string-array>
+
+
+    <string-array name="times">
+        <item>Mañana</item>
+        <item>Medio día</item>
+        <item>Tarde</item>
+        <item>9:00</item>
+        <item>9:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:30</item>
+        <item>12:00</item>
+        <item>12:30</item>
+        <item>13:00</item>
+        <item>13:30</item>
+        <item>14:00</item>
+        <item>14:30</item>
+        <item>15:00</item>
+        <item>15:30</item>
+        <item>16:00</item>
+        <item>16:30</item>
+        <item>17:00</item>
+        <item>17:30</item>
+        <item>18:00</item>
+    </string-array>
+
+    <string-array name="priorities">
+        <item>Baja</item>
+        <item>Media</item>
+        <item>Alta</item>
+        <item>Critica</item>
+    </string-array>
+
+    <string-array name="advance">
+        <item>En negociación</item>
+        <item>Aprobación verbal</item>
+        <item>Documentación OK</item>
+    </string-array>
+
+
+    <string-array name="typeVisit">
+        <item>Relevamiento</item>
+        <item>Presentacion</item>
+        <item>Venta</item>
+    </string-array>
+
+    <string-array name="reasonNotVisit">
+        <item>Seleccionar</item>
+        <item>Cerrado</item>
+        <item>No existe la direccion</item>
+        <item>No existe la cuenta</item>
+    </string-array>
+
+</resources>
